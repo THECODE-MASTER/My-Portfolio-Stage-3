@@ -1,0 +1,41 @@
+*{
+  background-color: #000000;
+}
+.header {
+  color: #FFFFFF;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #000000;
+}
+.menu {
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+.self {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #000000;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #000000;
+    }
+
+.footer {
+    color:gold;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #000000;
+}
+
+a {
+color: darkgoldenrod;
+}
+
+p {
+    text-align: center;
+}
